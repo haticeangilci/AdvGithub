@@ -4,6 +4,11 @@ public class Runner {
 
         System.out.println("Hello word!");
 
+        //versiyon 2
+        System.out.println("versiyon2");
+
+
+
 
 
 
