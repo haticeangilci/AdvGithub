@@ -21,14 +21,24 @@ public class Runner {
 
         //techpro
         System.out.println("---------");
-
+        System.out.println("*********");
 
 
         //localde değişiklik
 
-        //dev2 nin yaptığı değişiklik
-        //..................................
-        
+
+        //techpro branchinde değişiklik
+        //************************************
+
+
+
+
+
+
+
+
+
+
 
 
 
