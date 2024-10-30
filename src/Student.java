@@ -3,5 +3,6 @@ public class Student {
     //-------------------------------------------
 
     //techpro
-    public String("Techpro")
+
+    }
 }
