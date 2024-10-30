@@ -21,12 +21,13 @@ public class Runner {
 
         //techpro
         System.out.println("---------");
-
+        System.out.println("*********");
 
 
         //localde değişiklik
 
-        //remote repoda değişiklik
+        //techpro branchinde değişiklik
+        //************************************
 
 
 
